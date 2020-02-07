@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{F52407A2-3B51-48AC-913F-15586DC6F4DF}|Default">
+  <MonoDevelop.Ide.ItemProperties.HolaXamarin.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F56323EC-8DC8-4864-BB0C-BA9A2CA86982">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.HolaXamarin.iOS>
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Main.storyboard">
+    <Files>
+      <File FileName="iOS/Main.storyboard" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HolaXamarin" expanded="True">
+            <Node name="HolaXamarin" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="HolaXamarin.iOS" expanded="True">
+              <Node name="Main.storyboard" selected="True" />
+              <Node name="ViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HolaXamarin.Droid FirstBuild="True" />
+</Properties>

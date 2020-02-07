@@ -1,0 +1,5 @@
+/Users/karlo.lopez/Documents/Workspaces/HolaXamarin/HolaXamarin/bin/Debug/HolaXamarin.dll
+/Users/karlo.lopez/Documents/Workspaces/HolaXamarin/HolaXamarin/bin/Debug/HolaXamarin.pdb
+/Users/karlo.lopez/Documents/Workspaces/HolaXamarin/HolaXamarin/obj/Debug/HolaXamarin.csprojAssemblyReference.cache
+/Users/karlo.lopez/Documents/Workspaces/HolaXamarin/HolaXamarin/obj/Debug/HolaXamarin.dll
+/Users/karlo.lopez/Documents/Workspaces/HolaXamarin/HolaXamarin/obj/Debug/HolaXamarin.pdb

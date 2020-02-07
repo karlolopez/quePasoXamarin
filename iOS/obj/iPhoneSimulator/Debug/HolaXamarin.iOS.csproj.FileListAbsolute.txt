@@ -1,0 +1,14 @@
+/Users/karlo.lopez/Documents/Workspaces/HolaXamarin/iOS/bin/iPhoneSimulator/Debug/HolaXamarin.iOS.exe
+/Users/karlo.lopez/Documents/Workspaces/HolaXamarin/iOS/bin/iPhoneSimulator/Debug/HolaXamarin.iOS.pdb
+/Users/karlo.lopez/Documents/Workspaces/HolaXamarin/iOS/bin/iPhoneSimulator/Debug/HolaXamarin.dll
+/Users/karlo.lopez/Documents/Workspaces/HolaXamarin/iOS/bin/iPhoneSimulator/Debug/HolaXamarin.pdb
+/Users/karlo.lopez/Documents/Workspaces/HolaXamarin/iOS/obj/iPhoneSimulator/Debug/HolaXamarin.iOS.csprojAssemblyReference.cache
+/Users/karlo.lopez/Documents/Workspaces/HolaXamarin/iOS/obj/iPhoneSimulator/Debug/HolaXamarin.iOS.csproj.CopyComplete
+/Users/karlo.lopez/Documents/Workspaces/HolaXamarin/iOS/obj/iPhoneSimulator/Debug/HolaXamarin.iOS.exe
+/Users/karlo.lopez/Documents/Workspaces/HolaXamarin/iOS/obj/iPhoneSimulator/Debug/HolaXamarin.iOS.pdb
+/Users/karlo.lopez/Documents/Workspaces/HolaXamarin/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8 plus-13.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/karlo.lopez/Documents/Workspaces/HolaXamarin/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8 plus-13.3/actool/_PartialAppManifest.items
+/Users/karlo.lopez/Documents/Workspaces/HolaXamarin/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8 plus-13.3/actool/_BundleResourceWithLogicalName.items
+/Users/karlo.lopez/Documents/Workspaces/HolaXamarin/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8 plus-13.3/coremlc/_PartialAppManifest.items
+/Users/karlo.lopez/Documents/Workspaces/HolaXamarin/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8 plus-13.3/coremlc/_BundleResourceWithLogicalName.items
+/Users/karlo.lopez/Documents/Workspaces/HolaXamarin/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8 plus-13.3/optimized/
