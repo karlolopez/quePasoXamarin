@@ -44,6 +44,9 @@
                                         <real key="value" value="15"/>
                                     </userDefinedRuntimeAttribute>
                                 </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <action selector="Restar_TouchUpInside:" destination="BYZ-38-t0r" id="1716" eventType="touchUpInside"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="805" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES">
                                 <rect key="frame" x="157" y="508" width="100" height="100"/>
@@ -52,6 +55,9 @@
                                     <color key="titleShadowColor" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace" white="1" alpha="1"/>
                                     <color key="titleColor" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace" white="1" alpha="1"/>
                                 </state>
+                                <connections>
+                                    <action selector="Cero_TouchUpInside:" destination="BYZ-38-t0r" id="1714" eventType="touchUpInside"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="806" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES">
                                 <rect key="frame" x="157" y="400" width="100" height="100"/>
@@ -60,6 +66,9 @@
                                     <color key="titleShadowColor" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace" white="1" alpha="1"/>
                                     <color key="titleColor" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace" white="1" alpha="1"/>
                                 </state>
+                                <connections>
+                                    <action selector="Ocho_TouchUpInside:" destination="BYZ-38-t0r" id="1488" eventType="touchUpInside"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="807" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES">
                                 <rect key="frame" x="157" y="292" width="100" height="100"/>
@@ -68,6 +77,9 @@
                                     <color key="titleShadowColor" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace" white="1" alpha="1"/>
                                     <color key="titleColor" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace" white="1" alpha="1"/>
                                 </state>
+                                <connections>
+                                    <action selector="Cinco_TouchUpInside:" destination="BYZ-38-t0r" id="1485" eventType="touchUpInside"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="808" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES">
                                 <rect key="frame" x="157" y="184" width="100" height="100"/>
@@ -76,6 +88,9 @@
                                     <color key="titleShadowColor" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace" white="1" alpha="1"/>
                                     <color key="titleColor" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace" white="1" alpha="1"/>
                                 </state>
+                                <connections>
+                                    <action selector="Dos_TouchUpInside:" destination="BYZ-38-t0r" id="1482" eventType="touchUpInside"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="809" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES">
                                 <rect key="frame" x="279" y="184" width="100" height="100"/>
@@ -84,6 +99,9 @@
                                     <color key="titleShadowColor" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace" white="1" alpha="1"/>
                                     <color key="titleColor" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace" white="1" alpha="1"/>
                                 </state>
+                                <connections>
+                                    <action selector="Tres_TouchUpInside:" destination="BYZ-38-t0r" id="1483" eventType="touchUpInside"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="810" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES">
                                 <rect key="frame" x="279" y="292" width="100" height="100"/>
@@ -92,6 +110,9 @@
                                     <color key="titleShadowColor" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace" white="1" alpha="1"/>
                                     <color key="titleColor" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace" white="1" alpha="1"/>
                                 </state>
+                                <connections>
+                                    <action selector="Seis_TouchUpInside:" destination="BYZ-38-t0r" id="1486" eventType="touchUpInside"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="811" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES">
                                 <rect key="frame" x="279" y="400" width="100" height="100"/>
@@ -100,6 +121,9 @@
                                     <color key="titleShadowColor" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace" white="1" alpha="1"/>
                                     <color key="titleColor" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace" white="1" alpha="1"/>
                                 </state>
+                                <connections>
+                                    <action selector="Nueve_TouchUpInside:" destination="BYZ-38-t0r" id="1503" eventType="touchUpInside"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="812" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES">
                                 <rect key="frame" x="279" y="616" width="100" height="100"/>
@@ -114,6 +138,9 @@
                                         <real key="value" value="15"/>
                                     </userDefinedRuntimeAttribute>
                                 </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <action selector="Multiplicar_TouchUpInside:" destination="BYZ-38-t0r" id="1717" eventType="touchUpInside"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="817" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES">
                                 <rect key="frame" x="39" y="184" width="100" height="100"/>
@@ -123,7 +150,7 @@
                                     <color key="titleColor" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace" white="1" alpha="1"/>
                                 </state>
                                 <connections>
-                                    <action selector="UIButton817_TouchUpInside:" destination="BYZ-38-t0r" id="821" eventType="touchUpInside"/>
+                                    <action selector="Uno_TouchUpInside:" destination="BYZ-38-t0r" id="1047" eventType="touchUpInside"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="818" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES">
@@ -139,6 +166,9 @@
                                         <real key="value" value="15"/>
                                     </userDefinedRuntimeAttribute>
                                 </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <action selector="Sumar_TouchUpInside:" destination="BYZ-38-t0r" id="1715" eventType="touchUpInside"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="819" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES">
                                 <rect key="frame" x="32" y="400" width="100" height="100"/>
@@ -147,6 +177,9 @@
                                     <color key="titleShadowColor" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace" white="1" alpha="1"/>
                                     <color key="titleColor" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace" white="1" alpha="1"/>
                                 </state>
+                                <connections>
+                                    <action selector="Siete_TouchUpInside:" destination="BYZ-38-t0r" id="1487" eventType="touchUpInside"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="820" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES">
                                 <rect key="frame" x="32" y="292" width="100" height="100"/>
@@ -155,9 +188,41 @@
                                     <color key="titleShadowColor" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace" white="1" alpha="1"/>
                                     <color key="titleColor" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace" white="1" alpha="1"/>
                                 </state>
+                                <connections>
+                                    <action selector="Cuatro_TouchUpInside:" destination="BYZ-38-t0r" id="1484" eventType="touchUpInside"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="1718" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES">
+                                <rect key="frame" x="277" y="508" width="100" height="100"/>
+                                <fontDescription key="fontDescription" name="ChalkboardSE-Regular" family="Chalkboard SE" pointSize="90"/>
+                                <state key="normal" title="=">
+                                    <color key="titleShadowColor" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace" white="1" alpha="1"/>
+                                    <color key="titleColor" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace" white="1" alpha="1"/>
+                                </state>
+                                <connections>
+                                    <action selector="Cero_TouchUpInside:" destination="1720" id="1719" eventType="touchUpInside"/>
+                                    <action selector="EqualsButton_TouchUpInside:" destination="BYZ-38-t0r" id="1722" eventType="touchUpInside"/>
+                                </connections>
                             </button>
                         </subviews>
                     </view>
+                    <connections>
+                        <outlet property="uno" destination="817" id="name-outlet-817"/>
+                        <outlet property="dos" destination="808" id="name-outlet-808"/>
+                        <outlet property="tres" destination="809" id="name-outlet-809"/>
+                        <outlet property="cuatro" destination="820" id="name-outlet-820"/>
+                        <outlet property="cinco" destination="807" id="name-outlet-807"/>
+                        <outlet property="seis" destination="810" id="name-outlet-810"/>
+                        <outlet property="siete" destination="819" id="name-outlet-819"/>
+                        <outlet property="ocho" destination="806" id="name-outlet-806"/>
+                        <outlet property="nueve" destination="811" id="name-outlet-811"/>
+                        <outlet property="cero" destination="805" id="name-outlet-805"/>
+                        <outlet property="sumar" destination="818" id="name-outlet-818"/>
+                        <outlet property="restar" destination="804" id="name-outlet-804"/>
+                        <outlet property="multiplicar" destination="812" id="name-outlet-812"/>
+                        <outlet property="resultLabel" destination="803" id="name-outlet-803"/>
+                        <outlet property="equalsButton" destination="1718" id="name-outlet-1718"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
