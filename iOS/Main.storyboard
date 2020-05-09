@@ -204,6 +204,19 @@
                                     <action selector="EqualsButton_TouchUpInside:" destination="BYZ-38-t0r" id="1722" eventType="touchUpInside"/>
                                 </connections>
                             </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="2160" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES">
+                                <rect key="frame" x="32" y="508" width="100" height="100"/>
+                                <fontDescription key="fontDescription" name="ChalkboardSE-Regular" family="Chalkboard SE" pointSize="73"/>
+                                <state key="normal" title="AC">
+                                    <color key="titleShadowColor" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace" white="1" alpha="1"/>
+                                    <color key="titleColor" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace" white="1" alpha="1"/>
+                                </state>
+                                <connections>
+                                    <action selector="Cero_TouchUpInside:" destination="2162" id="2161" eventType="touchUpInside"/>
+                                    <action selector="EqualsButton_TouchUpInside:" destination="2164" id="2163" eventType="touchUpInside"/>
+                                    <action selector="Acbutton_TouchUpInside:" destination="BYZ-38-t0r" id="2165" eventType="touchUpInside"/>
+                                </connections>
+                            </button>
                         </subviews>
                     </view>
                     <connections>
@@ -222,6 +235,7 @@
                         <outlet property="multiplicar" destination="812" id="name-outlet-812"/>
                         <outlet property="resultLabel" destination="803" id="name-outlet-803"/>
                         <outlet property="equalsButton" destination="1718" id="name-outlet-1718"/>
+                        <outlet property="acbutton" destination="2160" id="name-outlet-2160"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
